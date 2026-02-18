@@ -1,0 +1,32 @@
+name: Unreleased Security Fix Scan
+
+on:
+  schedule:
+    - cron: '0 6 * * 1' # Every Monday at 06:00 UTC
+  workflow_dispatch:
+    inputs:
+      severity:
+        description: 'Minimum severity: low | medium | high | critical'
+        required: false
+        default: 'medium'
+      dry-run:
+        description: 'Dry run (no issues created)'
+        type: boolean
+        default: false
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run Unreleased Fix Scanner
+        uses: ./
+        with:
+          severity: ${{ github.event.inputs.severity || 'medium' }}
+          dry-run: ${{ github.event.inputs.dry-run || 'false' }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}

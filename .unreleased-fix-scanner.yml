@@ -1,0 +1,15 @@
+severity: medium
+
+ecosystems:
+  - npm
+  - pypi
+
+ignore:
+  advisories: []
+  packages: []
+
+issues:
+  labels:
+    - security
+    - unreleased-fix
+  assignees: []

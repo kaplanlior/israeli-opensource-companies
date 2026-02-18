@@ -1,0 +1,55 @@
+name: 'Unreleased Security Fix Scanner'
+description: >
+  Scans your dependency lockfiles for upstream packages that have
+  security-fix commits not yet included in a published release.
+  Opens GitHub issues for findings and updates them when fixes are released.
+branding:
+  icon: 'shield'
+  color: 'red'
+
+inputs:
+  lockfile:
+    description: 'Path to lockfile (auto-detected if omitted)'
+    required: false
+  ecosystem:
+    description: 'Force ecosystem: npm | pypi | go'
+    required: false
+  severity:
+    description: 'Minimum severity to report: low | medium | high | critical'
+    required: false
+    default: 'medium'
+  dry-run:
+    description: 'If true, print findings but do not create/update issues'
+    required: false
+    default: 'false'
+  config:
+    description: 'Path to .unreleased-fix-scanner.yml'
+    required: false
+    default: '.unreleased-fix-scanner.yml'
+  github-token:
+    description: 'GitHub token for API access'
+    required: false
+    default: ${{ github.token }}
+  issue-labels:
+    description: 'Additional comma-separated labels to add to created issues'
+    required: false
+
+outputs:
+  findings-count:
+    description: 'Number of unreleased security fixes found'
+  findings-json:
+    description: 'JSON array of findings'
+  sarif-file:
+    description: 'Path to SARIF output (if generated)'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  env:
+    GITHUB_TOKEN: ${{ inputs.github-token }}
+  args:
+    - '--repo=${{ github.repository }}'
+    - '--github-token=${{ inputs.github-token }}'
+    - '--severity=${{ inputs.severity }}'
+    - '--config=${{ inputs.config }}'
+    - '--output=json'
