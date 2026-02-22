@@ -1,0 +1,11 @@
+name: Allero
+website: https://www.allero.io/
+status: active
+founders:
+  - name: Idan Shahar
+    linkedin: https://il.linkedin.com/in/idan-shahar
+  - name: Itay Perry
+    linkedin: https://www.linkedin.com/in/itayperry/
+projects:
+  - name: allero
+    repo: allero-io/allero

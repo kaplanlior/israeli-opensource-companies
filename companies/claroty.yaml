@@ -1,0 +1,17 @@
+name: Claroty
+website: https://www.claroty.com/
+status: active
+founders:
+  - name: Amir Zilberstein
+    linkedin: https://www.linkedin.com/in/amir-zilberstein/
+  - name: Benny Porat
+    linkedin: https://www.linkedin.com/in/benny-porat-95039730/
+  - name: Galina Antova
+    linkedin: https://www.linkedin.com/in/galinaantova/
+projects:
+  - name: arya
+    repo: claroty/arya
+  - name: jwthenticator
+    repo: claroty/jwthenticator
+  - name: netunnel
+    repo: claroty/netunnel

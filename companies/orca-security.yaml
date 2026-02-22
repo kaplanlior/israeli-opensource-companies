@@ -1,0 +1,15 @@
+name: Orca Security
+website: https://orca.security/
+status: active
+founders:
+  - name: Avi Shua
+    linkedin: https://www.linkedin.com/in/avishua/
+  - name: Gil Geron
+    linkedin: https://www.linkedin.com/in/gilgeron/
+projects:
+  - name: AIGoat
+    repo: orcasecurity-research/AIGoat
+  - name: kte
+    repo: orcasecurity-research/kte
+  - name: orca-toolbox
+    repo: orcasecurity/orca-toolbox

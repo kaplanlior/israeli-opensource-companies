@@ -1,0 +1,17 @@
+name: Kaltura
+website: https://corp.kaltura.com/
+status: active
+founders:
+  - name: Eran Etam
+    linkedin: https://www.linkedin.com/in/eranetam/
+  - name: Michal Tsur
+    linkedin: https://www.linkedin.com/in/michaltsur
+  - name: Ron Yekutiel
+    linkedin: https://www.linkedin.com/in/ronyekutiel/
+  - name: Shay David
+    linkedin: https://www.linkedin.com/in/shaydavid/
+projects:
+  - name: nginx-vod-module
+    repo: kaltura/nginx-vod-module
+  - name: server
+    repo: kaltura/server

@@ -1,0 +1,11 @@
+name: Lunar.dev
+website: https://lunar.dev/
+status: active
+founders:
+  - name: Eyal Solomon
+    linkedin: https://www.linkedin.com/in/eyal-sol
+  - name: Roy Gabbay
+    linkedin: https://www.linkedin.com/in/roy-gabbay
+projects:
+  - name: lunar
+    repo: TheLunarCompany/lunar

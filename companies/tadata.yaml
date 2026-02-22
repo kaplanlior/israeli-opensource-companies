@@ -1,0 +1,13 @@
+name: Tadata
+website: https://tadata.com/
+status: active
+founders:
+  - name: Itay Shemer
+    linkedin: https://www.linkedin.com/in/itay-shemer/
+  - name: Miki Makhlevich
+    linkedin: https://www.linkedin.com/in/michael-makhlevich/
+  - name: Tori Seidenstein
+    linkedin: https://www.linkedin.com/in/toriseidenstein/
+projects:
+  - name: FastAPI-MCP
+    repo: tadata-org/fastapi_mcp

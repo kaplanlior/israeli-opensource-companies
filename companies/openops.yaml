@@ -1,0 +1,11 @@
+name: OpenOps
+website: https://www.openops.com/
+status: active
+founders:
+  - name: Amit Saar
+    linkedin: https://www.linkedin.com/in/amitsaar/
+  - name: Rita Gorokhod
+    linkedin: https://www.linkedin.com/in/ritagorokhod/
+projects:
+  - name: OpenOps
+    repo: openops-cloud/openops

@@ -1,0 +1,13 @@
+name: Cycode
+website: https://cycode.com/
+status: active
+founders:
+  - name: Dor Atias
+    linkedin: https://www.linkedin.com/in/dor-atias-%F0%9F%87%AE%F0%9F%87%B1-a2253593/
+  - name: Lior Levy
+    linkedin: https://www.linkedin.com/in/lior-levy-ba076689/
+  - name: Ronen Slavin
+    linkedin: https://www.linkedin.com/in/ronen-slavin-26281411/
+projects:
+  - name: Raven
+    repo: CycodeLabs/raven

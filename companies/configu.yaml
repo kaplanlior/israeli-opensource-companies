@@ -1,0 +1,11 @@
+name: Configu
+website: https://www.configu.com/
+status: active
+founders:
+  - name: Peleg Porat
+    linkedin: https://www.linkedin.com/in/peleg-porat/
+  - name: Ran Cohen
+    linkedin: https://www.linkedin.com/in/rannn505/
+projects:
+  - name: configu
+    repo: configu/configu

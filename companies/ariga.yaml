@@ -1,0 +1,11 @@
+name: Ariga
+website: https://ariga.io/
+status: active
+founders:
+  - name: Ariel Mashraki
+    linkedin: https://www.linkedin.com/in/ariel-mashraki-435a1250/
+  - name: Rotem Tamir
+    linkedin: https://www.linkedin.com/in/rotem-tamir-79538130/
+projects:
+  - name: Atlas
+    repo: ariga/atlas

@@ -1,0 +1,11 @@
+name: KubeMQ
+website: https://kubemq.io/
+status: active
+founders:
+  - name: Gil Eyal
+    linkedin: https://www.linkedin.com/in/gil-eyal-878a8/
+  - name: Lior Nabat
+    linkedin: https://www.linkedin.com/in/liornabat/
+projects:
+  - name: kubemq-community
+    repo: kubemq-io/kubemq-community

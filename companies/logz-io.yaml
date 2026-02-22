@@ -1,0 +1,13 @@
+name: Logz.io
+website: https://logz.io/
+status: active
+founders:
+  - name: Asaf Yigal
+    linkedin: https://www.linkedin.com/in/asafyigal/
+  - name: Tomer Levy
+    linkedin: https://www.linkedin.com/in/tomer-levy-3609501/
+projects:
+  - name: elasticsearch-stress-test
+    repo: logzio/elasticsearch-stress-test
+  - name: sawmill
+    repo: logzio/sawmill

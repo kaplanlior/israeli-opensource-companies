@@ -1,0 +1,15 @@
+name: Ever
+website: https://ever.co/
+status: active
+founders:
+  - name: Ruslan Konviser
+    linkedin: https://www.linkedin.com/in/evereq/
+projects:
+  - name: ever-gauzy
+    repo: ever-co/ever-gauzy
+  - name: ever-traduora
+    repo: ever-co/ever-traduora
+  - name: ever-demand
+    repo: ever-co/ever-demand
+  - name: ever-teams
+    repo: ever-co/ever-teams

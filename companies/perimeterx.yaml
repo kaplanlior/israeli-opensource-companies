@@ -1,0 +1,12 @@
+name: PerimeterX
+website: https://www.perimeterx.com/
+status: active
+acquired_by: Human
+founders:
+  - name: Ido Safruti
+    linkedin: https://www.linkedin.com/in/safruti/
+  - name: Omri Iluz
+    linkedin: https://www.linkedin.com/in/omriiluz/
+projects:
+  - name: Restringer
+    repo: PerimeterX/restringer

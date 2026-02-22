@@ -1,0 +1,15 @@
+name: Memphis.dev
+website: https://memphis.dev/
+status: active
+founders:
+  - name: Avraham Neeman
+    linkedin: https://www.linkedin.com/in/avraham-neeman-616092156
+  - name: Idan Asulin
+    linkedin: https://www.linkedin.com/in/idan-asulin
+  - name: Sveta Gimpelson
+    linkedin: https://www.linkedin.com/in/sveta-gimpelson/
+  - name: Yaniv Ben Hemo
+    linkedin: https://www.linkedin.com/in/ybenhemo
+projects:
+  - name: memphis
+    repo: memphisdev/memphis

@@ -1,0 +1,9 @@
+name: Comet
+website: https://www.comet.com/
+status: active
+founders:
+  - name: Gideon Mendels
+    linkedin: https://www.linkedin.com/in/gideon-mendels/
+projects:
+  - name: Opik
+    repo: comet-ml/opik

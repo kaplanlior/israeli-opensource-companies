@@ -1,0 +1,13 @@
+name: ARMO
+website: https://www.armosec.io/
+status: active
+founders:
+  - name: Ben Hirschberg
+    linkedin: https://www.linkedin.com/in/ben-hirschberg-66141890/
+  - name: Leonid Sandler
+    linkedin: https://www.linkedin.com/in/leonidsandler/
+  - name: Shauli Rozen
+    linkedin: https://www.linkedin.com/in/shaulirozen/
+projects:
+  - name: Kubescape
+    repo: armosec/kubescape

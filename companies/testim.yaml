@@ -1,0 +1,10 @@
+name: Testim
+website: https://www.testim.io/
+status: active
+acquired_by: Tricentis
+founders:
+  - name: Oren Rubin
+    linkedin: https://www.linkedin.com/in/rubinoren/
+projects:
+  - name: Root Cause
+    repo: testimio/root-cause

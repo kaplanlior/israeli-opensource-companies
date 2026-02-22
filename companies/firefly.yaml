@@ -1,0 +1,15 @@
+name: Firefly
+website: https://www.firefly.ai/
+status: active
+founders:
+  - name: Eran Bibi
+    linkedin: https://www.linkedin.com/in/eran-bibi/
+  - name: Ido Neeman
+    linkedin: https://www.linkedin.com/in/ido-neeman/
+  - name: Sefi Genis
+    linkedin: https://www.linkedin.com/in/sefi-genis-90282185/
+projects:
+  - name: aiac
+    repo: gofireflyio/aiac
+  - name: Validiac
+    repo: gofireflyio/validiac

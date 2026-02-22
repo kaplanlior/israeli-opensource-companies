@@ -1,0 +1,15 @@
+name: UP9
+website: https://up9.com/
+status: active
+founders:
+  - name: Alex Haiut
+    linkedin: https://www.linkedin.com/in/alexhaiut/
+  - name: Alon Girmonsky
+    linkedin: https://www.linkedin.com/in/alongirmonsky/
+  - name: Andrey Pokhilko
+    linkedin: https://www.linkedin.com/in/andreypohilko/
+  - name: Refael Botbol Weiss
+    linkedin: https://www.linkedin.com/in/refaelbotbol/
+projects:
+  - name: kubeshark
+    repo: kubeshark/kubeshark

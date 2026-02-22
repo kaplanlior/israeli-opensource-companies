@@ -1,0 +1,9 @@
+name: Appwrite
+website: https://appwrite.io/
+status: active
+founders:
+  - name: Eldad Fux
+    linkedin: https://www.linkedin.com/in/eldadfux/
+projects:
+  - name: Appwrite
+    repo: appwrite/appwrite

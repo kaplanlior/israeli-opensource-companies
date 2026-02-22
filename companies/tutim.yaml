@@ -1,0 +1,11 @@
+name: Tutim
+website: https://tutim.io/
+status: active
+founders:
+  - name: Eylon Mizrahi
+    linkedin: https://www.linkedin.com/in/eylonmiz
+  - name: Lee Twito
+    linkedin: https://www.linkedin.com/in/lee-twito/
+projects:
+  - name: Tutim
+    repo: tutim-io/tutim

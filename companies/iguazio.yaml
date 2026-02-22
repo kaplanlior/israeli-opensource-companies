@@ -1,0 +1,16 @@
+name: Iguazio
+website: https://www.iguazio.com/
+status: active
+acquired_by: McKinsey
+founders:
+  - name: Asaf Somekh
+    linkedin: https://www.linkedin.com/in/asafsomekh/
+  - name: Yaron Haviv
+    linkedin: https://www.linkedin.com/in/yaronh/
+  - name: Yaron Segav
+    linkedin: https://www.linkedin.com/in/yaron-segev-48516a2/
+projects:
+  - name: Nuclio
+    repo: nuclio/nuclio
+  - name: Mlrun
+    repo: mlrun/mlrun

@@ -1,0 +1,11 @@
+name: Apono
+website: https://www.apono.io/
+status: active
+founders:
+  - name: Ofir Stein
+    linkedin: https://www.linkedin.com/in/ofir-stein/
+  - name: Rom Carmel
+    linkedin: https://www.linkedin.com/in/romcarmel/
+projects:
+  - name: Weed
+    repo: apono-io/weed

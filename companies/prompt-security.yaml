@@ -1,0 +1,13 @@
+name: Prompt Security
+website: https://www.prompt.security
+status: active
+founders:
+  - name: Itamar Golan
+    linkedin: https://www.linkedin.com/in/itamar-g1/
+  - name: Lior Drihem
+    linkedin: https://www.linkedin.com/in/liord/
+projects:
+  - name: ps-fuzz
+    repo: prompt-security/ps-fuzz
+  - name: clawsec
+    repo: prompt-security/clawsec

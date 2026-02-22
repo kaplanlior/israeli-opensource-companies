@@ -1,0 +1,11 @@
+name: Riskified
+website: https://www.riskified.com/
+status: active
+founders:
+  - name: Assaf Feldman
+    linkedin: https://www.linkedin.com/in/assaf-feldman-991167
+  - name: Eido Gal
+    linkedin: https://www.linkedin.com/in/eido-gal-26651a16/
+projects:
+  - name: dynamic-environment
+    repo: Riskified/dynamic-environment

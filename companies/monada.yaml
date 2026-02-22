@@ -1,0 +1,11 @@
+name: Monada
+website: https://monada.co/
+status: active
+founders:
+  - name: Elad Ben-Israel
+    linkedin: https://www.linkedin.com/in/hackingonstuff/
+  - name: Shai Ber
+    linkedin: https://www.linkedin.com/in/shai-ber-245b1226/
+projects:
+  - name: Wing
+    repo: winglang/wing

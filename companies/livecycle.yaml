@@ -1,0 +1,13 @@
+name: Livecycle
+website: https://livecycle.io
+status: active
+founders:
+  - name: Assaf Krintza
+    linkedin: https://www.linkedin.com/in/assaf-krintza/
+  - name: Matan Mishan
+    linkedin: https://www.linkedin.com/in/matanmishan/
+  - name: Yshay Yaacobi
+    linkedin: https://www.linkedin.com/in/yshayy/
+projects:
+  - name: preevy
+    repo: livecycle/preevy

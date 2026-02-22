@@ -1,0 +1,13 @@
+name: Visual Layer
+website: https://visual-layer.com/
+status: active
+founders:
+  - name: Amir Alush
+    linkedin: https://www.linkedin.com/in/amiralush/
+  - name: Carlos Guestrin
+    linkedin: https://www.linkedin.com/in/carlos-guestrin-5352a869/
+  - name: Danny Bickson
+    linkedin: https://www.linkedin.com/in/dr-danny-bickson-835b32/
+projects:
+  - name: Fastdup
+    repo: visual-layer/fastdup

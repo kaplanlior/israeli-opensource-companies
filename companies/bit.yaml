@@ -1,0 +1,13 @@
+name: Bit
+website: https://bit.dev/
+status: active
+founders:
+  - name: Jonathan Saring
+    linkedin: https://www.linkedin.com/in/jonathan-saring-8181b140/
+  - name: Ran Mizrahi
+    linkedin: https://www.linkedin.com/in/ranmizrahi/
+  - name: Yonatan Sason
+    linkedin: https://www.linkedin.com/in/yona-p/
+projects:
+  - name: bit
+    repo: teambit/bit

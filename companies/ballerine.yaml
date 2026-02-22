@@ -1,0 +1,13 @@
+name: Ballerine
+website: https://www.ballerine.com/
+status: active
+founders:
+  - name: Alon Peretz
+    linkedin: https://www.linkedin.com/in/alonp/
+  - name: Nitzan Guy
+    linkedin: https://www.linkedin.com/in/nitzan-guy-63ba9142/
+  - name: Noam Izhaki
+    linkedin: https://www.linkedin.com/in/noamizhaki/
+projects:
+  - name: Ballerine
+    repo: ballerine-io/ballerine

@@ -1,0 +1,11 @@
+name: Elementary Data
+website: https://www.elementary-data.com/
+status: active
+founders:
+  - name: Maayan Salom
+    linkedin: https://www.linkedin.com/in/maayansa/
+  - name: Or Avidov
+    linkedin: https://www.linkedin.com/in/oravidov/
+projects:
+  - name: Elementary
+    repo: elementary-data/elementary

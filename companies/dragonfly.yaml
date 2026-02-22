@@ -1,0 +1,11 @@
+name: Dragonfly
+website: https://dragonflydb.io/
+status: active
+founders:
+  - name: Oded Poncz
+    linkedin: https://www.linkedin.com/in/poncz/
+  - name: Roman Gershman
+    linkedin: https://www.linkedin.com/in/romange/
+projects:
+  - name: Dragonfly
+    repo: dragonflydb/dragonfly

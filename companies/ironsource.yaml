@@ -1,0 +1,9 @@
+name: IronSource
+website: https://www.is.com/
+status: active
+acquired_by: Unity
+projects:
+  - name: OneAdapter
+    repo: ironSource/OneAdapter
+  - name: Parquetjs
+    repo: ironSource/parquetjs

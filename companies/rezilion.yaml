@@ -1,0 +1,11 @@
+name: Rezilion
+website: https://www.rezilion.com/
+status: active
+founders:
+  - name: Liran Tancman
+    linkedin: https://www.linkedin.com/in/liran-tancman-74375817/
+  - name: Shlomi Boutnaru
+    linkedin: https://www.linkedin.com/in/shlomi-boutnaru-ba781811a/
+projects:
+  - name: MI-X
+    repo: Rezilion/mi-x

@@ -1,0 +1,13 @@
+name: BillRun
+website: https://bill.run
+status: active
+founders:
+  - name: Eran Uzan
+    linkedin: https://www.linkedin.com/in/eran-uzan-2228406/
+  - name: Ofer Cohen
+    linkedin: https://www.linkedin.com/in/oc666/
+  - name: Shani Dalal
+    linkedin: https://www.linkedin.com/in/shanidalal/
+projects:
+  - name: system
+    repo: BillRun/system

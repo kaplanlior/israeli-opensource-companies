@@ -1,0 +1,12 @@
+name: Zooz
+website: https://zooz.com/
+status: active
+acquired_by: PayU
+founders:
+  - name: Oren Levy
+    linkedin: https://www.linkedin.com/in/levyoren/
+  - name: Ronen Morecki
+    linkedin: https://il.linkedin.com/in/rmorecki
+projects:
+  - name: Predator
+    repo: Zooz/predator

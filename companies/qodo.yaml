@@ -1,0 +1,13 @@
+name: Qodo
+website: http://www.qodo.ai/
+status: active
+founders:
+  - name: Dedy Kredo
+    linkedin: https://www.linkedin.com/in/dedy-kredo/
+  - name: Itamar Friedman
+    linkedin: https://www.linkedin.com/in/itamarf/
+projects:
+  - name: pr-agent
+    repo: qodo-ai/pr-agent
+  - name: qodo-cover
+    repo: qodo-ai/qodo-cover

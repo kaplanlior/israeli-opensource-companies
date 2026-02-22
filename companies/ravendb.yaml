@@ -1,0 +1,9 @@
+name: RavenDB
+website: https://ravendb.net/
+status: active
+founders:
+  - name: Oren Eini
+    linkedin: https://www.linkedin.com/in/ravendb/
+projects:
+  - name: ravendb
+    repo: ravendb/ravendb

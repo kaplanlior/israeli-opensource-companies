@@ -1,0 +1,13 @@
+name: Arnica
+website: https://www.arnica.io/
+status: active
+founders:
+  - name: Eran Medan
+    linkedin: https://www.linkedin.com/in/eran-medan/
+  - name: Moshe Dahan
+    linkedin: https://www.linkedin.com/in/moshe-dahan/
+  - name: Nir Valtman
+    linkedin: https://www.linkedin.com/in/nirvaltman/
+projects:
+  - name: GitGoat
+    repo: arnica-ext/GitGoat

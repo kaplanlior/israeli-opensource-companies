@@ -1,0 +1,11 @@
+name: Daily.dev
+website: https://daily.dev/
+status: active
+founders:
+  - name: Ido Shamun
+    linkedin: https://www.linkedin.com/in/ido-shamun-aa8628a3/
+  - name: Nimrod Kramer
+    linkedin: https://www.linkedin.com/in/nimrodkramer/
+projects:
+  - name: Daily
+    repo: dailydotdev/daily

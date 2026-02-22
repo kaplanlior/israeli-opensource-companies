@@ -1,0 +1,9 @@
+name: Amplication
+website: https://amplication.com/
+status: active
+founders:
+  - name: Yuval Hazaz
+    linkedin: https://www.linkedin.com/in/yuvalhazaz/
+projects:
+  - name: Amplication
+    repo: amplication/amplication

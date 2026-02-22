@@ -1,0 +1,13 @@
+name: Optery
+website: https://www.optery.com/
+status: active
+founders:
+  - name: Chen Atlas
+    linkedin: https://www.linkedin.com/in/atlaschen/
+  - name: Dekel Barzilay
+    linkedin: https://www.linkedin.com/in/dekelev/
+  - name: Lawrence Gentilello
+    linkedin: https://www.linkedin.com/in/gentilello/
+projects:
+  - name: optery-gpc-chrome-extension
+    repo: optery/optery-gpc-chrome-extension

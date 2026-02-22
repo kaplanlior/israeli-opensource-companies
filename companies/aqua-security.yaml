@@ -1,0 +1,19 @@
+name: Aqua Security
+website: https://www.aquasec.com/
+status: active
+founders:
+  - name: Amir Jerbi
+    linkedin: https://www.linkedin.com/in/amirjerbi/
+  - name: Dror Davidoff
+    linkedin: https://www.linkedin.com/in/drordavidoff/
+projects:
+  - name: Trivy
+    repo: aquasecurity/trivy
+  - name: Kube-bench
+    repo: aquasecurity/kube-bench
+  - name: Kube-hunter
+    repo: aquasecurity/kube-hunter
+  - name: tracee
+    repo: aquasecurity/tracee
+  - name: cloudsploit
+    repo: aquasecurity/cloudsploit

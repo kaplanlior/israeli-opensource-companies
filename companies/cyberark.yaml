@@ -1,0 +1,11 @@
+name: Cyberark
+website: https://www.cyberark.com/
+status: active
+founders:
+  - name: Alon N. Cohen
+    linkedin: https://www.linkedin.com/in/alon-n-cohen/
+  - name: Udi Mokady
+    linkedin: https://www.linkedin.com/in/udimokady/
+projects:
+  - name: Kubesploit
+    repo: cyberark/kubesploit

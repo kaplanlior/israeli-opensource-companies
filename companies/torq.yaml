@@ -1,0 +1,13 @@
+name: Torq
+website: https://torq.io/
+status: active
+founders:
+  - name: Eldad Livni
+    linkedin: https://www.linkedin.com/in/eldadlivni/
+  - name: Leonid Belkind
+    linkedin: https://www.linkedin.com/in/leonidbelkind/
+  - name: Ofer Smadari
+    linkedin: https://www.linkedin.com/in/smadari/
+projects:
+  - name: grpcmock
+    repo: torqio/grpcmock

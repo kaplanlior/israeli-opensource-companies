@@ -1,0 +1,14 @@
+name: Aspecto
+website: https://www.aspecto.io/
+status: active
+acquired_by: SmartBear
+founders:
+  - name: Eran Grabiner
+    linkedin: https://www.linkedin.com/in/eran-grabiner-98760587/
+  - name: Michael Haberman
+    linkedin: https://www.linkedin.com/in/michael-haberman/
+projects:
+  - name: Opentelemetry-ext-js
+    repo: aspecto-io/opentelemetry-ext-js
+  - name: Malabi
+    repo: aspecto-io/malabi

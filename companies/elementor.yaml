@@ -1,0 +1,11 @@
+name: Elementor
+website: https://elementor.com/
+status: active
+founders:
+  - name: Ariel Klikstein
+    linkedin: https://www.linkedin.com/in/arielk/
+  - name: Yoni Luksenberg
+    linkedin: https://www.linkedin.com/in/yoni-luksenberg/
+projects:
+  - name: Elementor
+    repo: elementor/elementor

@@ -1,0 +1,11 @@
+name: Lemonade
+website: https://www.lemonade.com/
+status: active
+founders:
+  - name: Daniel Schreiber
+    linkedin: https://www.linkedin.com/in/danielaschreiber/
+  - name: Shai Wininger
+    linkedin: https://www.linkedin.com/in/shaiwininger/
+projects:
+  - name: traf
+    repo: lemonade-hq/traf

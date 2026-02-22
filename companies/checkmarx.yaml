@@ -1,0 +1,13 @@
+name: Checkmarx
+website: https://checkmarx.com/
+status: active
+founders:
+  - name: Maty Siman
+    linkedin: https://www.linkedin.com/in/matysiman/
+projects:
+  - name: Kics
+    repo: Checkmarx/kics
+  - name: capital
+    repo: Checkmarx/capital
+  - name: 2ms
+    repo: Checkmarx/2ms

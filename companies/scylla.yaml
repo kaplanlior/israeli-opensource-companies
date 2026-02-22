@@ -1,0 +1,15 @@
+name: Scylla
+website: https://www.scylladb.com/
+status: active
+founders:
+  - name: Avi Kivity
+    linkedin: https://www.linkedin.com/in/avikivity/
+  - name: Dor Laor
+    linkedin: https://www.linkedin.com/in/dor-laor/
+projects:
+  - name: OSv
+    repo: cloudius-systems/osv
+  - name: seastar
+    repo: scylladb/seastar
+  - name: Scylladb
+    repo: scylladb/scylladb

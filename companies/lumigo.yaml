@@ -1,0 +1,12 @@
+name: Lumigo
+website: https://lumigo.io/
+status: active
+acquired_by: Dash0
+founders:
+  - name: Aviad Mor
+    linkedin: https://www.linkedin.com/in/aviadmor/
+  - name: Erez Berkner
+    linkedin: https://www.linkedin.com/in/erezbe/
+projects:
+  - name: SAR-Lambda-Janitor
+    repo: lumigo-io/SAR-Lambda-Janitor

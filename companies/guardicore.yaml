@@ -1,0 +1,14 @@
+name: Guardicore
+website: https://www.guardicore.com/
+status: active
+acquired_by: Akamai
+founders:
+  - name: Ariel Zeitlin
+    linkedin: https://www.linkedin.com/in/ariel-zeitlin-8861a9b/
+  - name: Dror Salee
+    linkedin: https://www.linkedin.com/in/dror-salee/
+  - name: Pavel Gurvich
+    linkedin: https://www.linkedin.com/in/pavelgurvich/
+projects:
+  - name: Infection Monkey
+    repo: guardicore/monkey

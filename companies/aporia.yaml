@@ -1,0 +1,11 @@
+name: Aporia
+website: https://www.aporia.com
+status: active
+founders:
+  - name: Alon Gubkin
+    linkedin: https://www.linkedin.com/in/alongubkin/
+  - name: Liran Paul Hason
+    linkedin: https://www.linkedin.com/in/hasuni/
+projects:
+  - name: kubesurvival
+    repo: aporia-ai/kubesurvival

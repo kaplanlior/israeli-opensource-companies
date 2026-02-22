@@ -1,0 +1,20 @@
+name: Soluto
+website: https://www.soluto.io/
+status: active
+acquired_by: Asurion
+founders:
+  - name: Ishay Green
+    linkedin: https://www.linkedin.com/in/ishaygreen
+  - name: Tomer Dvir
+    linkedin: https://www.linkedin.com/in/tomerdvir/
+projects:
+  - name: monitored
+    repo: OS-Guild/monitored
+  - name: Tweek
+    repo: Soluto/tweek
+  - name: Airbag
+    repo: Soluto/airbag
+  - name: shisell-js
+    repo: Soluto/shisell-js
+  - name: Simple-fake-server
+    repo: Soluto/simple-fake-server

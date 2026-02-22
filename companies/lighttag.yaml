@@ -1,0 +1,14 @@
+name: Lighttag
+website: https://www.lighttag.io/
+status: active
+acquired_by: Primer
+founders:
+  - name: Ilan Bar-Magen
+    linkedin: https://www.linkedin.com/in/barmagen/
+  - name: Tal Perry
+    linkedin: https://www.linkedin.com/in/tal-perry-b561212a/
+projects:
+  - name: sequence-labeling-with-transformers
+    repo: LightTag/sequence-labeling-with-transformers
+  - name: ALMa
+    repo: LightTag/ALMa

@@ -1,0 +1,11 @@
+name: Outburn
+website: https://outburn.health/
+status: active
+founders:
+  - name: Daniel Mechanik
+    linkedin: https://www.linkedin.com/in/danielmechanik/
+  - name: Meirav Malkin
+    linkedin: https://www.linkedin.com/in/meiravmalkin/
+projects:
+  - name: fume-community
+    repo: Outburn-IL/fume-community

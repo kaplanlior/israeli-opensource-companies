@@ -1,0 +1,11 @@
+name: Traceloop
+website: https://traceloop.com/
+status: active
+founders:
+  - name: Gal Kleinman
+    linkedin: https://www.linkedin.com/in/gal-kleinman-16898384/
+  - name: Nir Gazit
+    linkedin: https://www.linkedin.com/in/nirga/
+projects:
+  - name: OpenLLMetry
+    repo: traceloop/openllmetry

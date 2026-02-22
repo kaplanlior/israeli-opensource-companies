@@ -1,0 +1,11 @@
+name: Groundcover
+website: https://www.groundcover.com/
+status: active
+founders:
+  - name: Shahar Azulay
+    linkedin: https://www.linkedin.com/in/shahar-azulay-54156bb4/
+  - name: Yechezkel Rabinovich
+    linkedin: https://www.linkedin.com/in/yechezkel-rabinovich-946794b4/
+projects:
+  - name: Caretta
+    repo: groundcover-com/caretta

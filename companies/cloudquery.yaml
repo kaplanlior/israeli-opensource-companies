@@ -1,0 +1,9 @@
+name: CloudQuery
+website: https://www.cloudquery.io/
+status: active
+founders:
+  - name: Yevgeny Pats
+    linkedin: https://www.linkedin.com/in/yevgeny-pats-5973328b/
+projects:
+  - name: Cloudquery
+    repo: cloudquery/cloudquery

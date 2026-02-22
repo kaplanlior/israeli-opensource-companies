@@ -1,0 +1,13 @@
+name: Snyk
+website: https://snyk.io/
+status: active
+founders:
+  - name: Assaf Hefetz
+    linkedin: https://www.linkedin.com/in/assaf-hefetz/
+  - name: Danny Grander
+    linkedin: https://www.linkedin.com/in/grander/
+  - name: Guy Podjarny
+    linkedin: https://www.linkedin.com/in/guypo/
+projects:
+  - name: driftctl
+    repo: snyk/driftctl

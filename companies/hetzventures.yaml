@@ -1,0 +1,6 @@
+name: HetzVentures
+website: https://www.hetz.vc/
+status: active
+projects:
+  - name: RepoInspector
+    repo: HetzVentures/repoInspector

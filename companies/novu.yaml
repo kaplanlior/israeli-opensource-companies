@@ -1,0 +1,11 @@
+name: Novu
+website: https://novu.co/
+status: active
+founders:
+  - name: Dima Grossman
+    linkedin: https://www.linkedin.com/in/dimagrossman
+  - name: Tomer Barnea
+    linkedin: https://www.linkedin.com/in/tomerbarnea/
+projects:
+  - name: Novu
+    repo: novuhq/novu

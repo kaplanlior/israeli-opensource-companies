@@ -1,0 +1,11 @@
+name: Deepchecks
+website: https://deepchecks.com
+status: active
+founders:
+  - name: Philip Tannor
+    linkedin: https://www.linkedin.com/in/philip-tannor-a6a910b7/
+  - name: Shir Chorev
+    linkedin: https://www.linkedin.com/in/shirchorev/
+projects:
+  - name: Deepchecks
+    repo: deepchecks/deepchecks

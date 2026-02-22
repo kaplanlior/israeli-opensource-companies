@@ -1,0 +1,14 @@
+name: Deci-AI
+website: https://deci.ai/
+status: active
+acquired_by: NVIDIA
+founders:
+  - name: Jonathan Elial
+    linkedin: https://www.linkedin.com/in/jelial/
+  - name: Ran El-Yaniv
+    linkedin: https://www.linkedin.com/in/ran-el-yaniv-33a5b22/
+  - name: Yonatan Geifman
+    linkedin: https://www.linkedin.com/in/yonatan-geifman-8a449a3/
+projects:
+  - name: Super-gradients
+    repo: Deci-AI/super-gradients

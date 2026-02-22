@@ -1,0 +1,11 @@
+name: Lasso Security
+website: https://www.lasso.security/
+status: active
+founders:
+  - name: Elad Schulman
+    linkedin: https://www.linkedin.com/in/eschulman/
+  - name: Ophir Dror
+    linkedin: https://www.linkedin.com/in/ophirdror/
+projects:
+  - name: mcp-gateway
+    repo: lasso-security/mcp-gateway

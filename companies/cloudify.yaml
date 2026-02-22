@@ -1,0 +1,12 @@
+name: Cloudify
+website: https://cloudify.co/
+status: active
+acquired_by: Dell
+founders:
+  - name: Ariel Dan
+    linkedin: https://www.linkedin.com/in/ariel-dan/
+  - name: Nati Shalom
+    linkedin: https://www.linkedin.com/in/natishalom/
+projects:
+  - name: wagon
+    repo: cloudify-cosmo/wagon

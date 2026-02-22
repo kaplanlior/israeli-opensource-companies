@@ -1,0 +1,13 @@
+name: Salto
+website: https://www.salto.io
+status: active
+founders:
+  - name: Benny Schnaider
+    linkedin: https://www.linkedin.com/in/benny-schnaider-6ba64823/
+  - name: Gil Hoffer
+    linkedin: https://www.linkedin.com/in/gilhoffer/
+  - name: Rami Tamir
+    linkedin: https://www.linkedin.com/in/ramitamir/
+projects:
+  - name: salto
+    repo: salto-io/salto

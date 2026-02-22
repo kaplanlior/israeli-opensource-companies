@@ -1,0 +1,16 @@
+name: Wix
+website: https://www.wix.engineering/open-source
+status: active
+projects:
+  - name: react-native-navigation
+    repo: wix/react-native-navigation
+  - name: Detox
+    repo: wix/detox
+  - name: react-native-calendars
+    repo: wix/react-native-calendars
+  - name: react-native-notifications
+    repo: wix/react-native-notifications
+  - name: stylable
+    repo: wix/stylable
+  - name: detox-copilot
+    repo: wix-incubator/detox-copilot

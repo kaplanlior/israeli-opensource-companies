@@ -1,0 +1,12 @@
+name: Granulate
+website: https://granulate.io/
+status: active
+acquired_by: Intel
+founders:
+  - name: Asaf Ezra
+    linkedin: https://www.linkedin.com/in/asaf-ezra/
+  - name: Tal Saiag
+    linkedin: https://www.linkedin.com/in/tal-saiag/
+projects:
+  - name: gProfiler
+    repo: Granulate/gprofiler

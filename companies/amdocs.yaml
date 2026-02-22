@@ -1,0 +1,6 @@
+name: Amdocs
+website: https://www.amdocs.com/
+status: active
+projects:
+  - name: Webrix
+    repo: open-Amdocs/webrix

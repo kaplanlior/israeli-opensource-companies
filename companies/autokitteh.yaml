@@ -1,0 +1,11 @@
+name: AutoKitteh
+website: https://www.autokitteh.com/
+status: active
+founders:
+  - name: Haim Zlatokrilov
+    linkedin: https://www.linkedin.com/in/haim-zlatokrilov-1463818/
+  - name: Itay Donanhirsh
+    linkedin: https://www.linkedin.com/in/itayd/
+projects:
+  - name: AutoKitteh
+    repo: autokitteh/autokitteh

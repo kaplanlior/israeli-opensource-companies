@@ -1,0 +1,11 @@
+name: Neuledge
+website: https://neuledge.com/
+status: active
+founders:
+  - name: Moshe Simantov
+    linkedin: https://www.linkedin.com/in/moshesimantov/
+projects:
+  - name: engine-js
+    repo: neuledge/engine-js
+  - name: computed-types
+    repo: neuledge/computed-types

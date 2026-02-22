@@ -1,0 +1,13 @@
+name: Legit Security
+website: https://www.legitsecurity.com
+status: active
+founders:
+  - name: Liav Caspi
+    linkedin: https://www.linkedin.com/in/liav-caspi-67b10647/
+  - name: Lior Barak
+    linkedin: https://www.linkedin.com/in/lior-barak-28b028a5/
+  - name: Roni Fuchs
+    linkedin: https://www.linkedin.com/in/ronifuchs/
+projects:
+  - name: legitify
+    repo: Legit-Labs/legitify

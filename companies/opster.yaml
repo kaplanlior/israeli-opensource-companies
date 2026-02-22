@@ -1,0 +1,15 @@
+name: Opster
+website: https://opster.com
+status: active
+founders:
+  - name: Ori Shafir
+    linkedin: https://www.linkedin.com/in/orishafir/
+  - name: Shahar Shaked
+    linkedin: https://www.linkedin.com/in/shaked-shahar/
+  - name: Yonatan Stern
+    linkedin: https://www.linkedin.com/in/yonatan-stern-3b37392b/
+  - name: Ziv Segal
+    linkedin: https://www.linkedin.com/in/ziv-segal
+projects:
+  - name: opensearch-k8s-operator
+    repo: Opster/opensearch-k8s-operator

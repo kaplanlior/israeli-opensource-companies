@@ -1,0 +1,12 @@
+name: Oxeye
+website: https://www.oxeye.io
+status: active
+acquired_by: GitLab
+founders:
+  - name: Dean Agron
+    linkedin: https://www.linkedin.com/in/dean-agron/
+  - name: Ron Vider
+    linkedin: https://www.linkedin.com/in/ron-vider/
+projects:
+  - name: Ox4Shell
+    repo: ox-eye/Ox4Shell

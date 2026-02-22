@@ -1,0 +1,11 @@
+name: FASHN
+website: https://www.fashn.ai/
+status: active
+founders:
+  - name: Aya Bochman
+    linkedin: https://www.linkedin.com/in/aya-bochman/
+  - name: Dan Bochman
+    linkedin: https://www.linkedin.com/in/danbochman/
+projects:
+  - name: TryOnDiffusion
+    repo: fashn-ai/tryondiffusion

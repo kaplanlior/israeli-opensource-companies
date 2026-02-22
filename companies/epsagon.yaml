@@ -1,0 +1,16 @@
+name: Epsagon
+website: https://epsagon.com
+status: active
+acquired_by: Cisco
+founders:
+  - name: Nitzan Shapira
+    linkedin: https://www.linkedin.com/in/nitzan-shapira-521291108/
+  - name: Ran Ribenzaft
+    linkedin: https://www.linkedin.com/in/ran-ribenzaft/
+projects:
+  - name: Teletrace
+    repo: teletrace/teletrace
+  - name: list-lambdas
+    repo: epsagon/list-lambdas
+  - name: clear-lambda-storage
+    repo: epsagon/clear-lambda-storage

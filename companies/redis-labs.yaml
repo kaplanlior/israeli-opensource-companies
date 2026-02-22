@@ -1,0 +1,11 @@
+name: Redis Labs
+website: https://redislabs.com/
+status: active
+founders:
+  - name: Ofer Bengal
+    linkedin: https://www.linkedin.com/in/ofer-bengal-4a84ba6/
+  - name: Yiftach Shoolman
+    linkedin: https://www.linkedin.com/in/yiftachshoolman/
+projects:
+  - name: spark-redis
+    repo: RedisLabs/spark-redis

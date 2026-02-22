@@ -1,0 +1,15 @@
+name: JFrog
+website: https://jfrog.com
+status: active
+founders:
+  - name: Fred Simon
+    linkedin: https://www.linkedin.com/in/freddy33/
+  - name: Shlomi Ben Haim
+    linkedin: https://www.linkedin.com/in/shlomibenhaim/
+  - name: Yoav Landman
+    linkedin: https://www.linkedin.com/in/yoavlandman/
+projects:
+  - name: artifactory
+    url: https://jfrog.com/community/download-artifactory-oss/
+  - name: jenkins-artifactory-plugin
+    repo: jfrog/jenkins-artifactory-plugin

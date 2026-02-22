@@ -1,0 +1,13 @@
+name: Env0
+website: https://www.env0.com/
+status: active
+founders:
+  - name: Ohad Maislish
+    linkedin: https://www.linkedin.com/in/ohadmaislish/
+  - name: Omry Hay
+    linkedin: https://www.linkedin.com/in/omryhay/
+projects:
+  - name: Terratag
+    repo: env0/terratag
+  - name: OpenTofu
+    repo: opentofu/opentofu

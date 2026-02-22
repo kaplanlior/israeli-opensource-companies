@@ -1,0 +1,11 @@
+name: Ox Security
+website: https://www.ox.security/
+status: active
+founders:
+  - name: Lior Arzi
+    linkedin: https://www.linkedin.com/in/liorarzi/
+  - name: Neatsun Ziv
+    linkedin: https://www.linkedin.com/in/neatsun-ziv-ab7394/
+projects:
+  - name: MegaLinter
+    repo: oxsecurity/megalinter

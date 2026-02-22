@@ -1,0 +1,13 @@
+name: Permit.io
+website: https://www.permit.io
+status: active
+founders:
+  - name: Asaf Cohen
+    linkedin: https://www.linkedin.com/in/asafc/
+  - name: Or Weis
+    linkedin: https://www.linkedin.com/in/orweis/
+projects:
+  - name: opal
+    repo: permitio/opal
+  - name: optoggles
+    repo: permitio/optoggles

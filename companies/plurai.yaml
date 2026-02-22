@@ -1,0 +1,11 @@
+name: Plurai
+website: https://www.plurai.ai/
+status: active
+founders:
+  - name: Elad Levi
+    linkedin: https://www.linkedin.com/in/elad-levi-a938a3121/
+  - name: Ilan Kadar
+    linkedin: https://www.linkedin.com/in/ilan-kadar-b57ba511b
+projects:
+  - name: IntellAgent
+    repo: plurai-ai/intellagent

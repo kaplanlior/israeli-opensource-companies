@@ -1,0 +1,17 @@
+name: Jit
+website: https://jit.io
+status: active
+founders:
+  - name: Aviram Shmueli
+    linkedin: https://www.linkedin.com/in/aviramshmueli/
+  - name: David Melamed
+    linkedin: https://www.linkedin.com/in/mlmd/
+  - name: Gil Zimmermann
+    linkedin: https://www.linkedin.com/in/gilzimmermann/
+  - name: Ron Zalkind
+    linkedin: https://www.linkedin.com/in/ronzalkind/
+  - name: Tsahy Shapsa
+    linkedin: https://www.linkedin.com/in/tsahy/
+projects:
+  - name: DynamoDT
+    repo: jitsecurity/dynamo-data-transform

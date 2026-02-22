@@ -1,0 +1,11 @@
+name: Optibus
+website: https://www.optibus.com/
+status: active
+founders:
+  - name: Amos Haggiag
+    linkedin: https://www.linkedin.com/in/amoshag/
+  - name: Eitan Yanovsky
+    linkedin: https://www.linkedin.com/in/eitan-yanovsky-25565214/
+projects:
+  - name: Playback
+    repo: Optibus/playback

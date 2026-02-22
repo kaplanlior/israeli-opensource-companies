@@ -1,0 +1,9 @@
+name: Flyde
+website: https://www.flyde.dev/
+status: active
+founders:
+  - name: Gabriel Grinberg
+    linkedin: https://www.linkedin.com/in/gabrielgrinberg/
+projects:
+  - name: Flyde
+    repo: flydelabs/flyde

@@ -1,0 +1,9 @@
+name: Natural Intelligence
+website: https://www.naturalint.com/
+status: active
+founders:
+  - name: Nir Greenberg
+    linkedin: https://www.linkedin.com/in/nirgreenberg/
+projects:
+  - name: Liminal
+    repo: apache/incubator-liminal

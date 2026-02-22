@@ -1,0 +1,13 @@
+name: Coralogix
+website: https://coralogix.com/
+status: active
+founders:
+  - name: Ariel Assaraf
+    linkedin: https://www.linkedin.com/in/ariel-assaraf-ab621896/
+  - name: Lior Redlus
+    linkedin: https://il.linkedin.com/in/redlus
+  - name: Yoni Farin​
+    linkedin: https://www.linkedin.com/in/yoni-farin-97806874/
+projects:
+  - name: zio-k8s
+    repo: coralogix/zio-k8s

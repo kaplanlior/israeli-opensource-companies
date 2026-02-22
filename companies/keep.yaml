@@ -1,0 +1,12 @@
+name: Keep
+website: https://www.keephq.dev/
+status: active
+acquired_by: Elastic
+founders:
+  - name: Shahar Glazner
+    linkedin: https://www.linkedin.com/in/shahar-glazner-292946
+  - name: Tal Borenstein
+    linkedin: https://www.linkedin.com/in/talbo/
+projects:
+  - name: keep
+    repo: keephq/keep

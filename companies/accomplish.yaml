@@ -1,0 +1,9 @@
+name: Accomplish
+website: https://www.accomplish.ai/
+status: active
+founders:
+  - name: Or Hiltch
+    linkedin: https://www.linkedin.com/in/or-hiltch/
+projects:
+  - name: Accomplish
+    repo: accomplish-ai/accomplish

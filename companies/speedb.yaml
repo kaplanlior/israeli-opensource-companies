@@ -1,0 +1,12 @@
+name: Speedb
+website: https://www.speedb.io/
+status: active
+acquired_by: Redis
+founders:
+  - name: Adi Gelvan
+    linkedin: https://www.linkedin.com/in/adi-gelvan/
+  - name: Hilik Yochai
+    linkedin: https://www.linkedin.com/in/hilik-yochai-a06ab728/
+projects:
+  - name: Speedb
+    repo: speedb-io/speedb

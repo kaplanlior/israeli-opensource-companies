@@ -1,0 +1,13 @@
+name: Security Joes
+website: https://www.securityjoes.com/
+status: active
+founders:
+  - name: Ido Naor
+    linkedin: https://www.linkedin.com/in/ido-naor/
+projects:
+  - name: MasterParser
+    repo: securityjoes/MasterParser
+  - name: ForensicMiner
+    repo: securityjoes/ForensicMiner
+  - name: CloudCastle
+    repo: securityjoes/CloudCastle

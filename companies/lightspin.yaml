@@ -1,0 +1,12 @@
+name: Lightspin
+website: https://www.lightspin.io/
+status: active
+acquired_by: Cisco
+founders:
+  - name: Or Azarzar
+    linkedin: https://www.linkedin.com/in/or-cloud-security/
+  - name: Vladi Sandler
+    linkedin: https://www.linkedin.com/in/vladi-cloud-security/
+projects:
+  - name: Red-kube
+    repo: lightspin-tech/red-kube

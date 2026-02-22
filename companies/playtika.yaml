@@ -1,0 +1,8 @@
+name: Playtika
+website: https://www.playtika.com/
+status: active
+projects:
+  - name: testcontainers-spring-boot
+    repo: PlaytikaOSS/testcontainers-spring-boot
+  - name: feign-reactive
+    repo: PlaytikaOSS/feign-reactive

@@ -1,0 +1,11 @@
+name: Dataflint
+website: https://www.dataflint.io/
+status: active
+founders:
+  - name: Daniel Aronovich
+    linkedin: https://www.linkedin.com/in/daniel-aronovich/
+  - name: Meni Shmueli
+    linkedin: https://www.linkedin.com/in/meni-shmueli-dataflint/
+projects:
+  - name: spark
+    repo: dataflint/spark

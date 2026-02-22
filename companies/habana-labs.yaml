@@ -1,0 +1,12 @@
+name: Habana Labs
+website: https://habana.ai/
+status: active
+acquired_by: Intel
+founders:
+  - name: David Dahan
+    linkedin: https://www.linkedin.com/in/davidd-dahan/
+  - name: Ran Halutz
+    linkedin: https://www.linkedin.com/in/ran-halutz-06b33713/
+projects:
+  - name: Model-References
+    repo: HabanaAI/Model-References

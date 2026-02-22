@@ -1,0 +1,11 @@
+name: Nagish
+website: https://nagish.com/
+status: active
+founders:
+  - name: Alon Ezer
+    linkedin: https://www.linkedin.com/in/aezer/
+  - name: Tomer Aharoni
+    linkedin: https://www.linkedin.com/in/tomeraharoni/
+projects:
+  - name: React-native-turbo-starter
+    repo: talknagish/react-native-turbo-starter

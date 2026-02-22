@@ -1,0 +1,11 @@
+name: MetalBear
+website: https://metalbear.com/
+status: active
+founders:
+  - name: Aviram Hassan
+    linkedin: https://www.linkedin.com/in/aviram-hassan/
+  - name: Eyal Bukchin
+    linkedin: https://www.linkedin.com/in/eyal-bukchin/
+projects:
+  - name: mirrord
+    repo: metalbear-co/mirrord

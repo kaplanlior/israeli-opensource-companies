@@ -1,0 +1,15 @@
+name: Scribe Security
+website: https://scribesecurity.com/
+status: active
+founders:
+  - name: Danny (Daniel) Nebenzahl
+    linkedin: https://www.linkedin.com/in/danny-daniel-nebenzahl-78705a151/
+  - name: Guy Chernobrov
+    linkedin: https://www.linkedin.com/in/guy-chernobrov-4449a2203/
+  - name: Rubi Arbel
+    linkedin: https://www.linkedin.com/in/rubi-arbel-791631101/
+projects:
+  - name: Gitgat
+    repo: scribe-public/gitgat
+  - name: Parentimage
+    repo: scribe-public/parentimage

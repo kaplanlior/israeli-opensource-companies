@@ -1,0 +1,11 @@
+name: Odigos
+website: https://odigos.io/
+status: active
+founders:
+  - name: Ari Recht
+    linkedin: https://www.linkedin.com/in/arirecht/
+  - name: Eden Federman
+    linkedin: https://www.linkedin.com/in/edenfed/
+projects:
+  - name: Odigos
+    repo: keyval-dev/odigos

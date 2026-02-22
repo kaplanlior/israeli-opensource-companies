@@ -1,0 +1,14 @@
+name: Otterize
+website: https://otterize.com/
+status: active
+acquired_by: Cyera
+founders:
+  - name: Ori Shoshan
+    linkedin: https://www.linkedin.com/in/ori-shoshan/
+  - name: Tomer Greenwald
+    linkedin: https://www.linkedin.com/in/tomergreenwald/
+  - name: Uri Sarid
+    linkedin: https://www.linkedin.com/in/sarid/
+projects:
+  - name: network-mapper
+    repo: otterize/network-mapper

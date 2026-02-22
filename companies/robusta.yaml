@@ -1,0 +1,13 @@
+name: Robusta
+website: https://home.robusta.dev/
+status: active
+founders:
+  - name: Arik Alon
+    linkedin: https://www.linkedin.com/in/arik-alon-a484193/
+  - name: Natan Yellin
+    linkedin: https://www.linkedin.com/in/natanyellin/
+projects:
+  - name: Robusta
+    repo: robusta-dev/robusta
+  - name: HolmesGPT
+    repo: HolmesGPT/holmesgpt

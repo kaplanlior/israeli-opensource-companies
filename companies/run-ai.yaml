@@ -1,0 +1,14 @@
+name: Run.ai
+website: https://run.ai/
+status: active
+acquired_by: NVIDIA
+founders:
+  - name: Omri Geller
+    linkedin: https://www.linkedin.com/in/omri-geller-47407a155/
+  - name: Ronen Dar
+    linkedin: https://www.linkedin.com/in/ronen-dar/
+projects:
+  - name: Genv
+    repo: run-ai/genv
+  - name: KAI-Scheduler
+    repo: NVIDIA/KAI-Scheduler

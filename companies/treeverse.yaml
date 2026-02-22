@@ -1,0 +1,11 @@
+name: Treeverse
+website: https://lakefs.io/
+status: active
+founders:
+  - name: Einat Orr
+    linkedin: https://www.linkedin.com/in/einatorr/
+  - name: Oz Katz
+    linkedin: https://www.linkedin.com/in/oz-katz-4b3b389/
+projects:
+  - name: LakeFS
+    repo: treeverse/lakeFS

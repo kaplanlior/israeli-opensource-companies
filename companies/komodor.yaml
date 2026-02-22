@@ -1,0 +1,15 @@
+name: Komodor
+website: https://komodor.com/
+status: active
+founders:
+  - name: Ben Ofiri
+    linkedin: https://linkedin.com/in/ben-ofiri-29182694/
+  - name: Itiel Shwartz
+    linkedin: https://www.linkedin.com/in/itiel-shwartz-18542853/
+projects:
+  - name: helm-dashboard
+    repo: komodorio/helm-dashboard
+  - name: validkube
+    repo: komodorio/validkube
+  - name: komoplane
+    repo: komodorio/komoplane

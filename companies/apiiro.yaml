@@ -1,0 +1,13 @@
+name: Apiiro
+website: https://apiiro.com/
+status: active
+founders:
+  - name: Idan Plotnik
+    linkedin: https://www.linkedin.com/in/idan-plotnik/
+  - name: Yonatan Eldar
+    linkedin: https://www.linkedin.com/in/yonatan-eldar/
+projects:
+  - name: combobulator
+    repo: apiiro/combobulator
+  - name: git-snap
+    repo: apiiro/git-snap

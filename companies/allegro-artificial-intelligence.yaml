@@ -1,0 +1,12 @@
+name: Allegro Artificial Intelligence
+website: https://clear.ml/
+status: active
+founders:
+  - name: Gil Westrich
+  - name: Moses Guttmann
+    linkedin: https://www.linkedin.com/in/moses-guttmann-cml
+  - name: Nir Bar-Lev
+    linkedin: https://www.linkedin.com/in/nirbarlev/
+projects:
+  - name: ClearML
+    repo: allegroai/clearml

@@ -1,0 +1,11 @@
+name: Capsule Security
+website: https://capsulesecurity.com/
+status: active
+founders:
+  - name: Lidan Hazout
+    linkedin: https://www.linkedin.com/in/lidan-hazout/
+  - name: Naor Paz
+    linkedin: https://il.linkedin.com/in/naorpaz
+projects:
+  - name: clawguard
+    repo: capsulesecurity/clawguard
